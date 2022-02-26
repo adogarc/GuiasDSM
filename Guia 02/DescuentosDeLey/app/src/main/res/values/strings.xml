@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">descuentos</string>
+    <string name="titulo">Calculadora de Salario</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="horas">¿Cuántas horas trabajo este mes?</string>
+    <string name="empleado">El empleado: </string>
+    <string name="horastrabajadas">Trabajo en el mes:</string>
+    <string name="salario">El salario Bruto del mes fue de:</string>
+    <string name="afp">Se le descontó de afp la cantidad de:</string>
+    <string name="isss">Se le descontó de isss la cantidad de:</string>
+    <string name="renta">Se le descontó de renta la cantidad de:</string>
+    <string name="neto">El salario neto del mes es de:</string>
+    <string name="calcular">Calcular</string>
+</resources>
