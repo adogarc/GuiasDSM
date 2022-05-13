@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ViewModel Project</string>
+    <string name="mEstudiante">Guardar Estudiantes</string>
+    <string name="mNotas">Guardar Notas</string>
+    <string name="mRegistro">Registro de Estudiantes</string>
+    <string name="mDescripcionEstudiante">Boton Guardar Estudiante</string>
+    <string name="mDescripcionNotas">Boton Guardar Notas</string>
+    <string name="mDescripcionRegistro">Boton Ver registro</string>
+    <string name="carnet">Ingrese su Carnet</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="carrera">Ingrese su carrera</string>
+    <string name="anio">Ingrese año que cursa</string>
+    <string name="guardar">Guardar</string>
+    <string name="carnetN">Numero de carnet</string>
+    <string name="materiaN">Materia</string>
+    <string name="CodMat">Codigo de Materia</string>
+    <string name="uv">Unidades Valorativas</string>
+    <string name="nota">Ingrese su calificacion</string>
+    <string name="guardarN">Guardar Nota</string>
+    <string name="MenuN">Bienvenido al Registro de Notas</string>
+    <string name="calcularuv">Calular uv ganadas</string>
+    <string name="uvganadas">U.V Obtenidas</string>
+    <string name="regEstudiante">Buenvenido al registro de Estudiantes</string>
+    <string name="regNombre">Nombre del Estudiante:</string>
+    <string name="regCarnet">Carnet del Estudiantes:</string>
+    <string name="regApellido">Apellido del Estudiante:</string>
+    <string name="regCarrera">Carrera que cursa:</string>
+    <string name="regAño">Año que Cursa:</string>
+    <string name="regCalCum">Calcular Cum</string>
+    <string name="regCumObt">El CUM del estudiante es de:</string>
+    <string name="regBien">Bienvenido al Registro Academico</string>
+</resources>
